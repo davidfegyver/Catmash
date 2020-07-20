@@ -1,0 +1,26 @@
+{
+  "name": "catmash",
+  "version": "1.0.0",
+  "description": "Simple nodejs+sqlite facemash with cats",
+  "main": "add.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/davidfegyver/Catmash"
+  },
+  "keywords": [
+    "nodejs",
+    "catmash",
+    "facemash",
+    "sqlite",
+    "elorating"
+  ],
+  "author": "David Fegyver",
+  "license": "MIT",
+  "dependencies": {
+    "elo-rating": "^1.0.1",
+    "sqlite": "^4.0.12"
+  }
+}
