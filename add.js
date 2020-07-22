@@ -1,5 +1,4 @@
 const db = require('better-sqlite3')('images.db');
-const request = require('request');
 
 function createtable(p1, p2) {
     const sqlInit = `
