@@ -1,9 +1,9 @@
-# Catmash
+# Catmash Discord Bot
 
 ### What
 This is a little nodejs backend with sqlite
+
 The cat version of the FACEMASH
-You can use any links
 
 
 ### How to use
@@ -19,8 +19,6 @@ Change urls to what you want
 
 
 ##### Then
-`my.js`
+`index.js`
 this is the main script
 you can do the big thing here 
-
-Check its work by running `check.js` 
