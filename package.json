@@ -15,12 +15,15 @@
     "catmash",
     "facemash",
     "sqlite",
-    "elorating"
+    "elorating",
+    "discord",
+    "bot"
   ],
   "author": "David Fegyver",
   "license": "MIT",
   "dependencies": {
     "elo-rating": "^1.0.1",
-    "sqlite": "^4.0.12"
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.2.0"
   }
 }
