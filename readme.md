@@ -3,7 +3,6 @@
 ### What
 This is a little nodejs backend with sqlite
 The cat version of the FACEMASH
-You can use any links
 
 
 ### How to use
